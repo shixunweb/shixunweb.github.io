@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>模板選擇 on 石蟳網頁shixunweb</title>
+    <title>模板選擇 on 石蟳網頁</title>
     <link>https://shixunweb.github.io/post/</link>
-    <description>Recent content in 模板選擇 on 石蟳網頁shixunweb</description>
+    <description>Recent content in 模板選擇 on 石蟳網頁</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <atom:link href="https://shixunweb.github.io/post/index.xml" rel="self" type="application/rss+xml" />
@@ -12,35 +12,35 @@
       <link>https://shixunweb.github.io/post/1-scroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/1-scroll/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板二</title>
       <link>https://shixunweb.github.io/post/2-ava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/2-ava/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板三</title>
       <link>https://shixunweb.github.io/post/3-whisper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/3-whisper/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板四</title>
       <link>https://shixunweb.github.io/post/4-ramium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/4-ramium/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板五</title>
       <link>https://shixunweb.github.io/post/5-auspicious/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/5-auspicious/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
   </channel>
 </rss>

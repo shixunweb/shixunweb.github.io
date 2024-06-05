@@ -59,7 +59,7 @@ a {
 }
 a:hover,
 a:focus {
-  color: #70A3A0;
+  color: #197D99;
 }
 blockquote {
   color: #808080;
@@ -120,7 +120,7 @@ div.panel-body a.list-group-item.view-all {
 ::-moz-selection, ::selection {
   color: white;
   text-shadow: none;
-  background: #70A3A0;
+  background: #197D99;
 }
 img::selection, img::-moz-selection {
   color: white;
@@ -190,7 +190,7 @@ figure:not(.dark) img, img.white {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #70A3A0;
+  color: #197D99;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -441,7 +441,7 @@ footer div.disclaimer {
 .post-preview a:focus,
 .post-preview a:hover {
   text-decoration: none;
-  color: #70A3A0;
+  color: #197D99;
 }
 
 .post-preview .post-title {
@@ -734,8 +734,8 @@ footer div.disclaimer {
 .pager li a:hover,
 .pager li a:focus {
   color: #FFF;
-  background: #70A3A0;
-  border: 1px solid #70A3A0;
+  background: #197D99;
+  border: 1px solid #197D99;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -868,8 +868,8 @@ div.splitbox div.right {
 .disqus-comments button:hover, 
 .disqus-comments button:focus {
   color: #FFF;
-  background: #70A3A0;
-  border: 1px solid #70A3A0;
+  background: #197D99;
+  border: 1px solid #197D99;
 }
 
 /* Related posts */
@@ -963,3 +963,50 @@ h4.see-also {
     overflow-x: auto;
     overflow-y: hidden;
   }
+
+/* flowchart */
+.flowchart-body {
+    /* font-family: Arial, sans-serif; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 100vh; */
+    margin: 0;
+    /* background-color: #f4f4f4; */
+}
+
+.flowchart {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    flex-direction: column;
+}
+
+.step {
+    padding: 20px;
+    background-color: #fff;
+    border: 2px solid #000;
+    border-radius: 5px;
+    text-align: center;
+    /* min-width: 150px;
+    max-width: 200px; */
+    width: 200px;
+}
+
+.arrow {
+    font-size: 2em;
+    transform: rotate(90deg);
+}
+
+/* @media (max-width: 768px) {
+    .flowchart {
+        flex-direction: column;
+    }
+
+    .arrow {
+        transform: rotate(90deg);
+    }
+} */
+

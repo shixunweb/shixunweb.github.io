@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>石蟳網頁shixunweb</title>
+    <title>石蟳網頁</title>
     <link>https://shixunweb.github.io/</link>
-    <description>Recent content on 石蟳網頁shixunweb</description>
+    <description>Recent content on 石蟳網頁</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
     <atom:link href="https://shixunweb.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -12,56 +12,63 @@
       <link>https://shixunweb.github.io/post/1-scroll/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/1-scroll/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板二</title>
       <link>https://shixunweb.github.io/post/2-ava/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/2-ava/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板三</title>
       <link>https://shixunweb.github.io/post/3-whisper/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/3-whisper/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板四</title>
       <link>https://shixunweb.github.io/post/4-ramium/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/4-ramium/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
     </item>
     <item>
       <title>模板五</title>
       <link>https://shixunweb.github.io/post/5-auspicious/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/post/5-auspicious/</guid>
-      <description>Home&#xA;Footer&#xA;Content&#xA;demo</description>
+      <description>頁首&#xA;頁尾&#xA;內文&#xA;點我試試網頁效果</description>
+    </item>
+    <item>
+      <title>更多細節</title>
+      <link>https://shixunweb.github.io/page/notice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://shixunweb.github.io/page/notice/</guid>
+      <description> 不提供面訪服務 總計可修改3次，超過3次將根據所需工時額外收費 商品頁以5頁為限，每增加一頁費用另計 其他特殊需求將酌情收費 付款方式為一次性付款（轉帳/匯款） 最終價格以實際報價單為準 預設網址為（https://公司名稱.github.io），客製化網址費用另計 </description>
     </item>
     <item>
       <title>服務流程</title>
       <link>https://shixunweb.github.io/page/service/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/page/service/</guid>
-      <description> 建置費用包含：網頁製作 ＋ 網站主機 ＋ 網域 ＋ 網站安全憑證&#xA;適用對象 廣告行銷網頁 主推產品網頁 簡單形象網頁 方案內容 首頁 關於我們 產品資訊 聯絡我們 隱私權政策 網址(.github.io)+虛擬主機(安裝免費SSL) 客製化網址價格另計 製作流程 電話洽談(無拜訪)製作網站需求 付款及網站資料提供 版型選擇及設計風格確認網站製作 網站修改、驗收、上線結案 注意事項 若貴公司網站資料超過5頁單元區段或有購物車(或其他功能)不適用此方案，請改評估其他網站設計方案服務 請預先準備公司LOGO及相關網站資料文字檔及圖片，付款完成後10個工作天完成製作(不做任何的修改狀況下)，修改次數為3次內，超過3次；每超過一次酌收 NT$ 2,500元起 (視修改內容所需工時酌收)。 本優惠方案服務不提供面訪服務(或支付車馬費3000元/1小時) 每增加一頁為 NT$ 2,500元費用，安裝其他外掛元件及增加圖檔依與貴公司溝通確認需求後之最終價格為主，特殊需求會酌收費 付款方式為一次性付款(轉帳/匯款) 方案最終價錢，以實際報價單為主 </description>
+      <description>適用對象 廣告行銷網頁 主推產品網頁 簡單形象網頁 方案內容 首頁 關於我們 產品資訊 聯絡我們 隱私權政策 製作流程 選擇版型及確認風格 → 提供文字圖片 → 付款完成後開始製作流程 → 驗收完成後上線結案 更多細節</description>
     </item>
     <item>
       <title>聯絡我們</title>
       <link>https://shixunweb.github.io/page/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/page/contact/</guid>
-      <description> 電話 0926-000-000 信箱 shixunweb@gmail.com LINE @502ectjj </description>
+      <description> 信箱 shixunweb@gmail.com LINE @502ectjj </description>
     </item>
     <item>
       <title>關於我們</title>
       <link>https://shixunweb.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://shixunweb.github.io/page/about/</guid>
-      <description>為何選擇模組化網站? 1. 經濟實惠 相較於客製化網站，模組化網站製作所需的經費大幅降低，對於許多中小企業，是最經濟實惠的選擇。&#xA;2. 功能強大 模組化網站開發成熟，具有幾乎所有網站常用的功能模組，功能強大且穩定，符合大多數客戶的需要。&#xA;3. 快速上線 由於功能已經模組化，大幅減少製作時間，平均兩周即可完成整站製作。時間就是金錢，讓您最快時間擁有自己的網站。&#xA;4. 目標明確 本公司提供各式樣版，客戶僅需將明確的資料填入，即可完成網站製作，並且具擴充性，讓客戶能夠迅速掌握網站功能，完成網站製作。&#xA;超值服務 1. 主機代管服務 獨立網域協助申請設定 主機空間 1GB 每月流量 100GB 2. 版型功能 - 企業形象網站 基本資料設定 基本版型設定 客製化美術設計另外計費 3. 服務與教學 免費版SSL安全憑證 協助登錄 Google 網站搜尋 協助申請登錄GA 加值服務 客製化版型服務(視需求專案報價) </description>
+      <description>為何選擇模組化網站? 1. 經濟實惠 相較於客製化網站，模組化網站製作所需的經費大幅降低，對於許多中小企業，是最經濟實惠的選擇。&#xA;2. 功能強大 模組化網站開發成熟，具有幾乎所有網站常用的功能模組，功能強大且穩定，符合大多數客戶的需要。&#xA;3. 快速上線 由於功能已經模組化，大幅減少製作時間，平均兩周即可完成整站製作。時間就是金錢，讓您最快時間擁有自己的網站。&#xA;超值服務 1. 主機代管服務 獨立網域協助申請設定 主機空間 1GB 每月流量 100GB 2. 版型功能 - 企業形象網站 基本資料設定 基本版型設定 客製化美術設計另外計費 3. 服務與教學 免費版SSL安全憑證 協助登錄 Google 網站搜尋 協助申請登錄GA 加值服務 客製化版型服務(視需求專案報價) </description>
     </item>
   </channel>
 </rss>
